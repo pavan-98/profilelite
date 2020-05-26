@@ -59,6 +59,7 @@ hr {
 .intro{
   color: black;
   padding-right: 140px;
+  line-height: 2;
 }
 
 .introd{
@@ -133,11 +134,6 @@ hr {
 .contimg {
   height: 100px;
   width: 100px;
-}
-
-.intro {
-  font-weight: normal;
-  line-height: 2;
 }
 
 .skill-row{
