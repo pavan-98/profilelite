@@ -100,7 +100,7 @@ hr {
 
 .proimg {
     height: auto;
-  width: 40%;
+  width: 20%;
   padding-top: 70px;
 }
 
@@ -258,6 +258,12 @@ hr {
     margin: 100px auto 100px auto;
     text-align: center;
     line-height: 2;
+  }
+
+  .proimg {
+      height: auto;
+    width: 40%;
+    padding-top: 70px;
   }
 
   .contmsg{
